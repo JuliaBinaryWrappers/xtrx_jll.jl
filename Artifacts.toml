@@ -1,0 +1,104 @@
+[[xtrx]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "714c6e96b7689e402be32a2070e4ff2b7305dbed"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "05a40932b03c8d10a698686894aa558f9c36dbd103dfad3f2d9cbd7dc4035203"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[xtrx]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e7a80bef4a22d5b07ca5fa7735576600b66faa6"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "d006fe1cb663f0208a42fba13734390eb65a883975883cdf251866b2cc9a55a4"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[xtrx]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82971bfb17add1ab3da83b2ffa101199a0b74335"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "bba4d59483c374b9812c9f05dd1d5af7b5f8960ac733d866f643cc60fc9c8943"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[xtrx]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a76b9e1f721922b7afde1679b55149bad4d3ae22"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "0820d450977b7518632b195cb927bf4d2dfd703c3df18dab15084cc0229d20fb"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[xtrx]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "179b4510e8a79b387ddca7116e9296337c6b487b"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "219b35585bacaa9c7924e22a1e072fb75411d09df29ddeac9672ac5092e0b90b"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[xtrx]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67cdfbaa422ea386183d02f1014ed4f1b923c386"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "6ea8a5a2c69587e408059007bcebfbc6aff2b6e924b88bd3082d490a6fdfc0b2"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[xtrx]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6248034062546409d1477c5fc71387f3a7e89a8f"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "e109187eabbed95ffe4b375fc4a3cc9e54daac9b436c5c3630f6247c1488ea70"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.i686-linux-gnu-cxx03.tar.gz"
+[[xtrx]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96aa361fd2de22003cf066bb582e16d4369dc4f0"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "a35bc653f7a15c031c01bab10b68a571ff12ac783489fdca355fd548f17c95d3"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.i686-linux-gnu-cxx11.tar.gz"
+[[xtrx]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "528dffe0714d8b53babd14c61c1552e1ed7af685"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "a95228d0b0e8a898f086b0eae1528707a47752fc5c3376053c86645f411260ab"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[xtrx]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c246e7c00f67d37ce92ae3a313154536926ee18b"
+libc = "glibc"
+os = "linux"
+
+    [[xtrx.download]]
+    sha256 = "afd8ec12303a7c00c2416feec17bae1cb6c352e0e0c5bed183c5d7be2330a2a1"
+    url = "https://github.com/JuliaBinaryWrappers/xtrx_jll.jl/releases/download/xtrx-v0.1.2+0/xtrx.v0.1.2.x86_64-linux-gnu-cxx11.tar.gz"
