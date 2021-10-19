@@ -1,6 +1,6 @@
 name = "xtrx_jll"
 uuid = "f7ce82bc-bc1e-5125-bd1d-6a84dd39bfb4"
-version = "0.1.2+0"
+version = "0.1.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
